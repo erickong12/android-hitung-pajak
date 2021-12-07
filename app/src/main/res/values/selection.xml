@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="resiko">
+        <item>Sangat Rendah</item>
+        <item>Rendah</item>
+        <item>Sedang</item>
+        <item>Tinggi</item>
+        <item>Sangat Tinggi</item>
+    </string-array>
+</resources>

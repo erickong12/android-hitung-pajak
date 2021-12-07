@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Eric Agustian Winardi 1822250025</string>
+    <string name="nama">Nama</string>
+    <string name="tambah">Tambah</string>
+    <string name="upah">Upah</string>
+    <string name="risk">Risk</string>
+    <string name="pekerja">PEKERJA</string>
+    <string name="perusahaan">PERUSAHAAN</string>
+    <string name="jht">JHT</string>
+    <string name="jkk">JKK</string>
+    <string name="jkm">JKM</string>
+    <string name="jp">JP</string>
+    <string name="total">Total</string>
+    <string name="jht_pekerja">JHT_Pekerja</string>
+    <string name="jkk_pekejerja">0</string>
+    <string name="jkm_pekerja">0</string>
+    <string name="jp_pekerja">JP_Pekerja</string>
+    <string name="total_pekerja">Total_Pekerja</string>
+    <string name="jht_perus">JHT_Perus</string>
+    <string name="jkk_perus">JKK_Perus</string>
+    <string name="jkm_perus">JKM_Perus</string>
+    <string name="jp_perus">JP_Perus</string>
+    <string name="total_perus">Total_Perus</string>
+</resources>
